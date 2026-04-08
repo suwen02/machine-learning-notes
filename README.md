@@ -28,7 +28,7 @@
 | [L07_SVM.md](L07_SVM.md) | 支持向量机 | Hard/Soft Margin、对偶问题、核方法 |
 | [L08_Decision_Tree.md](L08_Decision_Tree.md) | 决策树与集成方法 | ID3/C4.5/CART、Random Forest、Boosting |
 
-### 第三部分：深度学习与模型评估 (Lectures 9–12)
+### 第三部分：深度学习与模型评估 (Lectures 9–13)
 
 | 文件 | 主题 | 核心内容 |
 |------|------|---------|
@@ -36,6 +36,7 @@
 | [L10_CNN.md](L10_CNN.md) | 卷积神经网络 | 卷积运算、经典架构 (LeNet→ResNet)、迁移学习 |
 | [L11_RNN_Transformer.md](L11_RNN_Transformer.md) | RNN 与 Transformer | LSTM/GRU、Attention 机制、Transformer 架构 |
 | [L12_Bias_Variance.md](L12_Bias_Variance.md) | Bias-Variance 权衡 | 偏差-方差分解推导、学习曲线、模型选择 |
+| [L13_Performance_Evaluation.md](L13_Performance_Evaluation.md) | 性能评估 | Cross-Validation、Confusion Matrix、ROC/AUC |
 
 ## 📚 参考教材
 
